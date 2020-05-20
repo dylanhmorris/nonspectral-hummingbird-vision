@@ -1,0 +1,4 @@
+"","models","rhat_max_parm","rhat_max_val","neff_min_parm","neff_min_val"
+"1","out/mcmc_chains/main_stan_model_chains.Rds","learning_effect[19]",1.00211917154338,"learning_effect[13]",0.324526205776055
+"2","out/mcmc_chains/multilevel_model_chains.Rds","equilibrium_E",1.01242185193868,"treatment_mode[3]",0.128496091821054
+"3","out/mcmc_chains/no_error_model_chains.Rds","lp__",1.0053858780184,"lp__",0.192706960830587

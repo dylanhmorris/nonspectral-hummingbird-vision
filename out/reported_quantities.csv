@@ -1,0 +1,17 @@
+"","quantity","value"
+"1","main_null_mean_mean_correctness",0.578225251583396
+"2","main_spec_mean_mean_correctness",0.788209817471735
+"3","main_nonspec_mean_mean_correctness",0.827208097902808
+"4","main_nonspec_q01_mean_correctness",0.752288029150108
+"5","main_nonspec_q05_mean_correctness",0.773217637000298
+"6","main_spec_q01_mean_correctness",0.653400284446117
+"7","main_spec_q05_mean_correctness",0.690271259396077
+"8","main_null_q95_mean_correctness",0.637444052329473
+"9","main_null_q99_mean_correctness",0.668474915296589
+"10","main_nonspec_min_q50_correctness",0.714023575096374
+"11","main_nonspec_min_mean_correctness",0.715428357507034
+"12","main_spec_min_q50_correctness",0.756415011793278
+"13","main_spec_min_mean_correctness",0.757935090793958
+"14","main_null_max_q50_correctness",0.585256524728538
+"15","main_mean_sigma_error",0.0401965544791855
+"16","main_q95_sigma_error",0.0987459201359027
