@@ -5,7 +5,7 @@
 ## author: Dylan Morris <dhmorris@princeton.edu>
 ##
 ## plot change in estimated correctness
-## as a function of euclidean distance
+## as a function of Euclidean distance
 ## for uvred and uvgreen axes
 ## 
 ####################################
@@ -125,7 +125,7 @@ fig <- learning_effects %>%
     facet_wrap(vars(axis_name), ncol=1) +
     coord_cartesian(xlim=c(0, 1),
                     ylim=c(0.5, 1)) +
-    xlab("Euclidean distance in avian colorspace") + 
+    xlab("Euclidean distance in avian color space") + 
     ylab("Probability of choosing rewarded color") +
     theme_classic(base_size=22) +
     background_grid(major = "xy",

@@ -3,7 +3,7 @@
 # author: Dylan Morris <dhmorris@princeton.edu>
 #
 # Makefile to generate analyses
-# for Stoddard et al 2019 study
+# for Stoddard et al 2020 study
 # of hummingbird non-spectral color
 # perception
 #
